@@ -1,4 +1,5 @@
 # vue-login
+I made it to use vue material tools and to practice my skills styling the components of this library.
 
 ## Project setup
 ```
@@ -22,3 +23,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Deployment
+
+https://festive-lamport-bdf044.netlify.com/
